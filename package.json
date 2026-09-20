@@ -1,0 +1,16 @@
+{
+  "name": "davetech-orders",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dave Tech order site — served as a Node web service on Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
